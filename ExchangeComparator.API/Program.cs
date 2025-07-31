@@ -27,7 +27,7 @@ builder.Services.AddHttpClient<ThirdApiProvider>(client =>
     client.BaseAddress = new Uri("https://api3.example.com");
 });
 
-// Register the providers as services
+
 builder.Services.AddScoped<IExchangeRateProvider, FirstApiProvider>();
 builder.Services.AddScoped<IExchangeRateProvider, SecondApiProvider>();
 builder.Services.AddScoped<IExchangeRateProvider, ThirdApiProvider>();
