@@ -1,0 +1,16 @@
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\bin\Debug\net9.0\ExchangeComparator.Application.deps.json
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\bin\Debug\net9.0\ExchangeComparator.Application.dll
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\bin\Debug\net9.0\ExchangeComparator.Application.pdb
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\bin\Debug\net9.0\ExchangeComparator.Domain.dll
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\bin\Debug\net9.0\ExchangeComparator.Domain.pdb
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.csproj.AssemblyReference.cache
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.AssemblyInfoInputs.cache
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.AssemblyInfo.cs
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.sourcelink.json
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\Exchange.219A6D64.Up2Date
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.dll
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\refint\ExchangeComparator.Application.dll
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ExchangeComparator.Application.pdb
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Application\obj\Debug\net9.0\ref\ExchangeComparator.Application.dll

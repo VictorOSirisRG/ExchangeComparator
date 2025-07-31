@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4+9ChNY9Fc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Application\\ExchangeComparator.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer11\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gamer11\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

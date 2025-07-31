@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExchangeComparator.Domain\ExchangeComparator.Domain.csproj" />
+    <ProjectReference Include="..\ExchangeComparator.Infrastructure\ExchangeComparator.Infrastructure.csproj" />
+    <ProjectReference Include="..\ExchangeComparator.Application\ExchangeComparator.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

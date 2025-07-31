@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExchangeComparator.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ExchangeComparator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ExchangeComparator.Infrastructure.dll": {}
+        }
+      },
+      "ExchangeComparator.Domain/1.0.0": {
+        "runtime": {
+          "ExchangeComparator.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExchangeComparator.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExchangeComparator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

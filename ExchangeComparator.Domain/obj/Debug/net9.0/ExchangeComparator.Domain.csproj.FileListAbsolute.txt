@@ -1,0 +1,12 @@
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\bin\Debug\net9.0\ExchangeComparator.Domain.deps.json
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\bin\Debug\net9.0\ExchangeComparator.Domain.dll
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\bin\Debug\net9.0\ExchangeComparator.Domain.pdb
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ExchangeComparator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ExchangeComparator.Domain.AssemblyInfoInputs.cache
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ExchangeComparator.Domain.AssemblyInfo.cs
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ExchangeComparator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ExchangeComparator.Domain.sourcelink.json
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ExchangeComparator.Domain.dll
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\refint\ExchangeComparator.Domain.dll
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ExchangeComparator.Domain.pdb
+C:\Users\Gamer11\Documents\ExchangeComparator\ExchangeComparator.Domain\obj\Debug\net9.0\ref\ExchangeComparator.Domain.dll

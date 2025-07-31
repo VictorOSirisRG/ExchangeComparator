@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\models\\exchangerateresponsetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\models\\exchangerateresponsetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\providers\\firstapiprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\providers\\firstapiprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\providers\\secondapiprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\providers\\secondapiprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\providers\\thirdapiprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\providers\\thirdapiprovidertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\services\\exchangerateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\services\\exchangerateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\models\\exchangeraterequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\models\\exchangeraterequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347F5003-EDF5-4A09-8733-40554E8CD2AE}|ExchangeComparator.API\\ExchangeComparator.API.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347F5003-EDF5-4A09-8733-40554E8CD2AE}|ExchangeComparator.API\\ExchangeComparator.API.csproj|solutionrelative:exchangecomparator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.tests\\simpletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAA9579-9C11-4173-B075-2AD4993B8D22}|ExchangeComparator.Tests\\ExchangeComparator.Tests.csproj|solutionrelative:exchangecomparator.tests\\simpletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E48B78-6F70-4E30-81F4-E44EB1BDA2C4}|ExchangeComparator.Infrastructure\\ExchangeComparator.Infrastructure.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.infrastructure\\providers\\thirdapiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E48B78-6F70-4E30-81F4-E44EB1BDA2C4}|ExchangeComparator.Infrastructure\\ExchangeComparator.Infrastructure.csproj|solutionrelative:exchangecomparator.infrastructure\\providers\\thirdapiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E48B78-6F70-4E30-81F4-E44EB1BDA2C4}|ExchangeComparator.Infrastructure\\ExchangeComparator.Infrastructure.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.infrastructure\\providers\\firstapiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E48B78-6F70-4E30-81F4-E44EB1BDA2C4}|ExchangeComparator.Infrastructure\\ExchangeComparator.Infrastructure.csproj|solutionrelative:exchangecomparator.infrastructure\\providers\\firstapiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E48B78-6F70-4E30-81F4-E44EB1BDA2C4}|ExchangeComparator.Infrastructure\\ExchangeComparator.Infrastructure.csproj|c:\\users\\gamer11\\documents\\exchangecomparator\\exchangecomparator.infrastructure\\providers\\secondapiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E48B78-6F70-4E30-81F4-E44EB1BDA2C4}|ExchangeComparator.Infrastructure\\ExchangeComparator.Infrastructure.csproj|solutionrelative:exchangecomparator.infrastructure\\providers\\secondapiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\TestBase.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\TestBase.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\TestBase.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:37:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangeRateRequestTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Models\\ExchangeRateRequestTests.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\Models\\ExchangeRateRequestTests.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Models\\ExchangeRateRequestTests.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\Models\\ExchangeRateRequestTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:36:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Services\\ExchangeRateServiceTests.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\Services\\ExchangeRateServiceTests.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Services\\ExchangeRateServiceTests.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\Services\\ExchangeRateServiceTests.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAewM0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:36:33.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdApiProviderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Providers\\ThirdApiProviderTests.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\Providers\\ThirdApiProviderTests.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Providers\\ThirdApiProviderTests.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\Providers\\ThirdApiProviderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:36:26.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecondApiProviderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Providers\\SecondApiProviderTests.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\Providers\\SecondApiProviderTests.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Providers\\SecondApiProviderTests.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\Providers\\SecondApiProviderTests.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAADwv9MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:36:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstApiProviderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Providers\\FirstApiProviderTests.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\Providers\\FirstApiProviderTests.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Providers\\FirstApiProviderTests.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\Providers\\FirstApiProviderTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:36:12.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExchangeRateResponseTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Models\\ExchangeRateResponseTests.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\Models\\ExchangeRateResponseTests.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\Models\\ExchangeRateResponseTests.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\Models\\ExchangeRateResponseTests.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAewHgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:36:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimpleTest.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\SimpleTest.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Tests\\SimpleTest.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Tests\\SimpleTest.cs",
+              "RelativeToolTip": "ExchangeComparator.Tests\\SimpleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:35:52.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThirdApiProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Infrastructure\\Providers\\ThirdApiProvider.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Infrastructure\\Providers\\ThirdApiProvider.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Infrastructure\\Providers\\ThirdApiProvider.cs",
+              "RelativeToolTip": "ExchangeComparator.Infrastructure\\Providers\\ThirdApiProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:20:11.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirstApiProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Infrastructure\\Providers\\FirstApiProvider.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Infrastructure\\Providers\\FirstApiProvider.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Infrastructure\\Providers\\FirstApiProvider.cs",
+              "RelativeToolTip": "ExchangeComparator.Infrastructure\\Providers\\FirstApiProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:20:10.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SecondApiProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Infrastructure\\Providers\\SecondApiProvider.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.Infrastructure\\Providers\\SecondApiProvider.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.Infrastructure\\Providers\\SecondApiProvider.cs",
+              "RelativeToolTip": "ExchangeComparator.Infrastructure\\Providers\\SecondApiProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:20:06.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.API\\Program.cs",
+              "RelativeDocumentMoniker": "ExchangeComparator.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Gamer11\\Documents\\ExchangeComparator\\ExchangeComparator.API\\Program.cs",
+              "RelativeToolTip": "ExchangeComparator.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:17:13.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

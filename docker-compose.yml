@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  exchange-comparator-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+      - "8443:443"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Optional: Add a simple health check service
+  health-check:
+    image: curlimages/curl:latest
+    depends_on:
+      - exchange-comparator-api
+    command: >
+      sh -c "
+        echo 'Waiting for API to be ready...' &&
+        until curl -f http://exchange-comparator-api/health; do
+          sleep 2
+        done &&
+        echo 'API is ready!' &&
+        curl -X POST http://exchange-comparator-api/api/v1/best-rate \
+          -H 'Content-Type: application/json' \
+          -d '{\"sourceCurrency\":\"USD\",\"targetCurrency\":\"EUR\",\"amount\":1000}'
+      " 
